@@ -5,3 +5,12 @@
     }
   }
 }
+// {
+//   "compilerOptions": {
+//     "baseUrl": ".",
+//     "paths": {
+//       "@utils/*": ["app/utils/*"],
+//       "@models/*": ["app/models/*"]
+//     }
+//   }
+// }
